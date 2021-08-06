@@ -9,3 +9,6 @@ model/
 
 # Csv data
 *.csv
+
+corbeille/
+trash.*
