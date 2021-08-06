@@ -1,6 +1,9 @@
 ## Modifications
 The original Jupyter notebooks created by `NielRogge` was written to be run (presumably) on
-Google Colab. I have made modifications to render them runnable in local machines.
+Google Colab. I have made modifications to render them runnable in local Linux machines.
+(For readers using MacOS/Windows, they might need further modify the commands in Jupyter notebook cells
+to make them work on the corresponding OS.)
+
 
 Major changes include
 
