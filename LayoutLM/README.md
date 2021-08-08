@@ -12,4 +12,7 @@ Major changes include
 
 
 
+## A Few Python Scripts Worth Reading
+- `huggingface/transformers/src/transformers/models/bert/tokenization_bert.py` to better understand the class `LayoutLMTokenizer`, which is a subclass of `BertTokenizer`
+
 
